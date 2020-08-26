@@ -1,7 +1,7 @@
 name: Message example
 type: module
 description: "Example message for working with the message module."
-core_version_requirement: ^8 || ^9
+core_version_requirement: ^8.8 || ^9
 package: Message
 dependencies:
  - message:message
